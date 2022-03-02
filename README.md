@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Christian Mesaque
 
 - ⚡ Entusiasta da progamação
+- ⌨️ Estudando Javascript 
 
 <div align="center">
   <a href="https://github.com/christianmesaque">
