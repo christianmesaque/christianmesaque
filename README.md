@@ -1,4 +1,4 @@
-### Olá! Eu sou o Christian Mesaque
+### Olá! Me chamo Christian Mesaque
 
 - ⚡ Entusiasta da progamação
 - ⌨️ Estudando Javascript 
