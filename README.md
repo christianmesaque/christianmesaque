@@ -16,7 +16,7 @@
   
   ### Skills
   
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,git,figma)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,bootstrap)](https://skillicons.dev)
   
   ## Social Links
   
