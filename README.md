@@ -1,4 +1,4 @@
-<h1> Fala Devs! Eu sou Christian Mesaque <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+<h1> Fala Devs! Eu sou Christian Mesaque 👋</h1>
 
 - 💻 Desenvolvedor Front-End jr
 
