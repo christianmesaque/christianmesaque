@@ -1,7 +1,5 @@
 <h1> Fala Devs! Eu sou Christian Mesaque 👋</h1>
 
-- 💻 Desenvolvedor Front-End jr
-
 - 👨‍🎓 Atualmente sou estudante de Análise e desenvolvimento de sistemas [🚧 1/6]()
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [🚨 portifólio em construção]
