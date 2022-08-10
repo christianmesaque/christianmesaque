@@ -1,7 +1,5 @@
 <h1> Fala Devs! Eu sou Christian Mesaque 👋</h1>
 
-- 📱 Desenvolvedor Mobile
-
 - 👨‍🎓 Estudante de Análise e desenvolvimento de sistemas [🚧 2/6]()
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [🚨 portifólio em construção]
