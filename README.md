@@ -14,7 +14,7 @@
   
   ### Skills
   
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,dart,flutter,java)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,dart,flutter,python)](https://skillicons.dev)
   
   ## Social Links
   
