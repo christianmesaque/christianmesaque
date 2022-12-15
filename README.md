@@ -1,9 +1,7 @@
 <h1> Olá! Eu me chamo Christian Mesaque 👋</h1>
 
 - 👨‍🎓 Estudante de Análise e desenvolvimento de sistemas [ 2/6]()
-
-- 👨‍💻 Sinta-se a vontade para conferir meu site de portifólio. [🚧 Em construção 🚧]
-- 🧰 Construo coisa com: `Flutter`, `Dart`, `Python`
+- 🧰 Construo coisa com: `Python`
 - ⚡ Gosto de ler, viajar e levantar pesos :)
 - 📫 Fale comigo: christianmacedo110@gmail.com
 
