@@ -1,6 +1,6 @@
 <h1> Olá! Eu me chamo Christian Mesaque 👋</h1>
 
-- 👨‍🎓 Estudante de Análise e desenvolvimento de sistemas [ 2/6]()
+- 👨‍🎓 Estudante de Análise e desenvolvimento de sistemas [ 3/6]()
 - 🧰 Construo coisa com: `Python`, `Java`
 - ⚡ Gosto de ler, viajar e levantar pesos :)
 - 📫 Fale comigo: christianmacedo110@gmail.com
