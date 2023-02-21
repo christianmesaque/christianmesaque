@@ -2,7 +2,7 @@
 
 - 👨‍🎓 Estudante de Análise e desenvolvimento de sistemas [ 3/6]()
 - 🏢 Backend Developer 
-- 🧰 Construo coisa com: `Python`, `Java`
+- 🧰 Construo coisa com: `Python`, `Django`, `SQL`
 - ⚡ Gosto de ler, viajar e levantar pesos :)
 - 📫 Fale comigo: christianmacedo110@gmail.com
 
