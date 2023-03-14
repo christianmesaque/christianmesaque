@@ -1,8 +1,7 @@
 <h1> Olá! Eu me chamo Christian Mesaque 👋</h1>
 
 - 👨‍🎓 Estudante de Análise e desenvolvimento de sistemas [ 3/6]()
-- 🏢 Backend Developer 
-- 🧰 Construo coisas com: `Python`, `Django`, `SQLite`
+- 🧰 Construo coisas com: `Python`, `Django`, `JavaScrip`, `SQLite`
 - ⚡ Gosto de ler, viajar e levantar pesos :)
 - 📫 Fale comigo: christianmacedo110@gmail.com
 
