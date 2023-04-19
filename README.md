@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Joao-Eduardo-AJ">
+  <a href="https://github.com/christianmesaque">
     <img width="80%" alt="Eu mesmo" src="https://user-images.githubusercontent.com/95937311/232075918-98d0eb7d-0db0-4664-b0f4-edae1a72e361.png"/>
   </a>
 </p>
