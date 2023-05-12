@@ -13,7 +13,7 @@
 
   <p align="center"><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql" />
+    <img src="https://skillicons.dev/icons?i=java,js,react,html,css,postgresql,mysql" />
   </a>
   </p>
  
@@ -33,8 +33,8 @@
   <ul> 
     <br>
     <li>📚 Graduação em Análise e desenvolvimento de sistemas 3/6 </li>
-    <li>💼 Futuro desenvolvedor Backend Java </li>
+    <li>💼 Desenvolvedor FullStack </li>
     <li>⚡ Gosto de ler, jogar e levantar pesos :) </li>
-    <li>🎨 Atualmente focado na linguagem Java e bancos de dados SQL e NoSQL </li>
+    <li>🎨 Atualmente focado na linguagem Java e no framework Spring </li>
   </ul>
 </div>
