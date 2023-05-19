@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/christianmesaque">
-    <img width="80%" alt="Eu mesmo" src="https://user-images.githubusercontent.com/95937311/232075918-98d0eb7d-0db0-4664-b0f4-edae1a72e361.png"/>
+    <img width="80%" alt="Eu mesmo" src="https://github.com/christianmesaque/christianmesaque/assets/95937311/1b2c0204-c824-4c7a-91ba-e4481af4b62d"/>
   </a>
 </p>
 
@@ -13,7 +13,7 @@
 
   <p align="center"><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,react,html,css,postgresql,mysql" />
+    <img src="https://skillicons.dev/icons?i=java,js,ts,react,html,css" />
   </a>
   </p>
  
@@ -33,8 +33,7 @@
   <ul> 
     <br>
     <li>📚 Graduação em Análise e desenvolvimento de sistemas 3/6 </li>
-    <li>💼 Desenvolvedor FullStack </li>
+    <li>💼 Futuro Desenvolvedor FullStack </li>
     <li>⚡ Gosto de ler, jogar e levantar pesos :) </li>
-    <li>🎨 Atualmente focado na linguagem Java e no framework Spring </li>
   </ul>
 </div>
