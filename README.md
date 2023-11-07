@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="https://github.com/christianmesaque">
-    <img width="80%" alt="Eu mesmo" src="https://github.com/christianmesaque/christianmesaque/assets/95937311/1b2c0204-c824-4c7a-91ba-e4481af4b62d"/>
-  </a>
-</p>
 
 <div align="center">
   <a href="https://github.com/christianmesaque">
