@@ -5,7 +5,7 @@
 
 <p align="center">I solve big challenges using technology.
 
-I work mainly with backend development using Golang in addition to experience with the web trinity: JS, HTML and CSS. I'm passionate about discovering new things and using them to create high-quality solutions. Today, I'm a student/aspiring programmer focused on backend development.</p>&nbsp;
+I work mainly with backend development using Typescript with NodeJs and your frameworks, in addition to experience with the web trinity: JS, HTML and CSS. I'm passionate about discovering new things and using them to create high-quality solutions. Today, I'm a student/aspiring programmer focused on backend development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=christianmesaque&theme=radical&mode=weekly" />
