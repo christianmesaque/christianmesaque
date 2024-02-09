@@ -9,7 +9,7 @@ I work mainly with backend development using Golang in addition to experience wi
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=christianmesaque&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-theta-three-51.vercel.app//api/top-langs/?username=christianmesaque&show_icons=true&theme=radical&layout=compact" />
+<img width=40% align="center" src="https://github-readme-stats-fu9d.vercel.app//api/top-langs/?username=christianmesaque&show_icons=true&theme=radical&layout=compact" />
  </div>
  
  &nbsp;
